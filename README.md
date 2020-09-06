@@ -1,2 +1,2 @@
 # towersofhanoi
-Python implementation of the towers of hanoi problem
+quick python implementation of towersofhanoi problem
