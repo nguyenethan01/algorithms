@@ -1,2 +1,3 @@
-# towersofhanoi
-quick python implementation of towersofhanoi problem
+# algorithms
+
+Implementations of various python algorithms
