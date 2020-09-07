@@ -8,4 +8,5 @@ def towers_of_hanoi (n , source, destination, buffer):
   print (f'Move disk {n} from source {source} to destination {destination} ')
   towers_of_hanoi(n-1, buffer, destination, source) 
 
-towers_of_hanoi(8,'A','B','C')
+if __name__  == '__main__':
+  towers_of_hanoi(4,'A','C','B')
